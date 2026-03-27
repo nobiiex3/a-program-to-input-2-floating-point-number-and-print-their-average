@@ -1,0 +1,1 @@
+# a-program-to-input-2-floating-point-number-and-print-their-average
